@@ -401,6 +401,8 @@ footer {
   .main-features__item--icon {
     align-self: center;
     flex: 0 0 20%;
+    width: 60px;
+    max-width: 60px;
     fill: #10ac84;
     overflow: visible; }
   .main-features__item--bullet {
